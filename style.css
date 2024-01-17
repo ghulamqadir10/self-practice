@@ -1,0 +1,17 @@
+{
+     @import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap')
+}
+ h1,h2{
+    color: rgb(224, 133, 14);
+    background-color: rgb(16, 14, 14);
+    line-height: 4rem;
+   
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+p{
+        font-family: "Salsa", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
